@@ -15,7 +15,7 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 
 #### Dataset
 <pre>
-Dataset    : <a href=https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri>Brain Tumor MRI Dataset (Kaggle)</a>                  
+Dataset    : <a href=https://drive.google.com/drive/folders/1Pj61qQNfG1Ea7jTD8PK-COXc7MEHbfyo?usp=sharing>Brain Tumor MRI Dataset </a>                  
 </pre>
 The sample images of Glioma, Meningioma, Pituitary and Normal patients are shown in figure below:
 ![Image of Brain MRI](https://i.ibb.co/sH3g2Vz/bt1.png)
